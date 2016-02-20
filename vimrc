@@ -16,13 +16,6 @@ set go-=r
 " and the other one
 set go-=L
 
-" nicer font for my gvim
-if has('win32')
-	set guifont=Consolas
-else
-	set guifont=Monospace\ 9
-endif
-
 " trying to scroll a lightyear shouldn't take a year
 if has('mouse')
 	set mouse=a
