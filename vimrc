@@ -1,5 +1,8 @@
 execute pathogen#infect()
 
+" use system clipboard
+set clipboard=unnamedplus
+
 " tab indents and stuff
 set sw=4
 com! -bar Hardtab set ts=4 noet
