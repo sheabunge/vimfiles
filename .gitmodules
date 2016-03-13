@@ -58,3 +58,6 @@
 [submodule "bundle/jedi-vim"]
 	path = bundle/jedi-vim
 	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "bundle/vim-nginx"]
+	path = bundle/vim-nginx
+	url = https://github.com/LeonB/vim-nginx
