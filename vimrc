@@ -87,3 +87,6 @@ au BufNewFile,BufRead *.pyi setf python
 " fix delete key on macos
 set backspace=indent,eol,start
 
+" enable syntax highlighting
+syntax on
+
