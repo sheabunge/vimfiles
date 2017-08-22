@@ -83,3 +83,7 @@ nnoremap <F8> :TagbarToggle<CR>
 " jedi
 let g:jedi#show_call_signatures = 2
 au BufNewFile,BufRead *.pyi setf python
+
+" fix delete key on macos
+set backspace=indent,eol,start
+
