@@ -90,3 +90,5 @@ set backspace=indent,eol,start
 " enable syntax highlighting
 syntax on
 
+" turn on line numbers
+set number
