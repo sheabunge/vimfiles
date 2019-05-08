@@ -92,3 +92,5 @@ syntax on
 
 " turn on line numbers
 set number
+
+set term=builtin_ansi
